@@ -1,4 +1,10 @@
 # Open-problems-for-single-cell-2022-Silver-medal-solution
 
 
-# Teamname: One & Only
+# Team name: One & Only
+
+# Team members:
+
+TESUZI
+gzguevara
+ZJY27
