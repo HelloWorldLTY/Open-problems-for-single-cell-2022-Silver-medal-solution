@@ -8,3 +8,7 @@
 TESUZI
 gzguevara
 ZJY27
+
+# Final score: 
+
+0.771196 (Best submission: 0.772132)
